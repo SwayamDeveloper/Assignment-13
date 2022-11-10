@@ -1,0 +1,73 @@
+h2{display: inline-block;
+color: darkblue;
+}
+
+nav{
+    display: inline-block;
+    margin-left: 30px;
+}
+a{
+    padding: 12px;
+    background-color: darkblue;
+    color: aliceblue;
+    text-align: center;
+    text-decoration: none;
+    margin: 1px;
+}
+
+a:hover{
+    background-color: lightblue;
+    color: azure;
+}
+
+img{
+    width: 250px;
+    height:300px;
+}
+
+.info{
+    float: left;
+    width: 250px;
+    height: 550px;
+    background-color: #311b92; 
+    color: wheat;
+    text-align: center;
+}
+
+.p1{
+    margin: 50px;
+    color: dimgray;
+    font-size: xx-large;
+}
+.dt{
+    float: left;
+}
+
+.nm{
+    margin: 51px;
+    color: #311b92;
+    font-size: xxx-large;
+
+    
+
+}
+
+
+
+
+.t1{
+    width: 650px;
+    margin: 100px;
+      
+    color: blueviolet;
+    margin-top: auto;
+   
+}
+
+.para{
+    width: 600px;
+    /* padding-left: 5%; */
+    padding-left: 11%;
+
+    margin-top: -10%;
+}
